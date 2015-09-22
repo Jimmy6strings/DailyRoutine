@@ -1,5 +1,5 @@
 var calCounter = function(numCal) {
-	var maxCal = 3207;
+	var maxCal = 1300;
 	if (numCal > maxCal) {
 		alert("Stop Eating!");
 	}
