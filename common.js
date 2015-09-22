@@ -4,4 +4,4 @@ var calCounter = function(numCal) {
 		alert("Stop Eating Fatty!");
 	}
 	else {alert("Keep Eating!")};
-}
+};
